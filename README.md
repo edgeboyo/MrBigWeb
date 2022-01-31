@@ -1,4 +1,4 @@
-# mrbigweb
+# MrBigWeb
 
 ## Project setup
 ```
